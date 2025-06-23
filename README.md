@@ -6,7 +6,11 @@ A responsive clone of Amazon Prime Video login and landing page built using HTML
 
 > *A simple clone of Amazon Prime Video front page demonstrating actual layout, modern design, and clean UI.*
 
-![Amazon Prime Clone Screenshot](your-screenshot-url)
+screenshots of the page
+![image](https://github.com/user-attachments/assets/7a4ae1de-f788-454e-a176-1ec6d27cf300)
+![image](https://github.com/user-attachments/assets/889da42e-d05f-48a5-b2f6-5d4c59a5e8ed)
+![image](https://github.com/user-attachments/assets/bfa690db-64b9-4948-8289-2e01e1ad0820)
+
 
 ---
 
@@ -31,7 +35,7 @@ A responsive clone of Amazon Prime Video login and landing page built using HTML
 
 /index.html -> Main page structure
 /index.css -> Styling and responsive design
-/assets/ -> Images / logo
+
 images used in this project are taken from the below url only for learning purposes.
 m.media-amazon.com
 
