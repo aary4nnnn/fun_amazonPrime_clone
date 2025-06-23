@@ -32,6 +32,8 @@ A responsive clone of Amazon Prime Video login and landing page built using HTML
 /index.html -> Main page structure
 /index.css -> Styling and responsive design
 /assets/ -> Images / logo
+images used in this project are taken from the below url only for learning purposes.
+m.media-amazon.com
 
 
 ---
